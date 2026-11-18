@@ -26,3 +26,9 @@ Collected on 18 November 2026. Most records were found through FAOLEX, UNEP LEAP
 - English texts are mostly unofficial translations; the Arabic text governs.
 - News reports are used only where no legal text was found online, and are flagged.
 - Treaty status for Ballast Water and some MARPOL annexes comes from a secondary summary and should be checked against IMO status lists.
+
+## Arabic sources (added 2026-11-18)
+
+- `data/arabic_sources.csv` lists 22 key instruments with Arabic titles, Hijri and Gregorian dates, gazette details and status. 11 of them have been checked against Arabic legal portals. The other 11 are left for the local colleague to check.
+- `data/arabic_books.csv` lists 19 Arabic books, theses and articles. They cover the region, single countries, international law written in Arabic, and Islamic law.
+- `ARABIC_CHECK_GUIDE.md` gives plain-English instructions for the colleague.
