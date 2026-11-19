@@ -53,3 +53,5 @@ Gaps still open:
 - **Sharia court rulings on the sea**: none found beyond the Saudi point above and the old pearling court records.
 - **Official portals**: the UAE Ministry of Justice portal blocked automated reading, and Qatar's Al Meezan search gave no marine judgments. A manual Arabic search may find more.
 - Most national rows rest on news reports. Case numbers and full texts should be found where possible.
+
+`COURT_SEARCH_GUIDE.md` (added 2026-11-19) gives the colleague a step-by-step Arabic search for more court cases, country by country, with portals, search words and what to record.
