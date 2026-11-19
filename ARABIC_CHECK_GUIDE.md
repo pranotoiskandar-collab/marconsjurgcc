@@ -19,6 +19,7 @@ Both lists are spreadsheets (CSV files). They open in Excel, Google Sheets or Nu
 3. Check whether the law is still in force, or whether it was amended or replaced.
 4. Write `yes` or `no` in `colleague_confirmed`.
 5. Add any correction in `colleague_notes`. A short note is enough, and you can write it in Arabic or English.
+6. While you read each law, look for the key words listed below. Write any you find in `key_terms`, with the article number, for example `محمية – art. 3; أمانة – art. 12`. If none appear, write `none`.
 
 **For the books:**
 1. Tell us which ones you know, and whether each is worth reading for this project.
@@ -28,6 +29,25 @@ Both lists are spreadsheets (CSV files). They open in Excel, Google Sheets or Nu
    - Books published in the Gulf itself.
 
 Some rows say "to confirm". We found a record of these works, but we could not open their full details.
+
+## Key words to look for
+
+We want to know whether today's laws use words from the Islamic legal tradition, and where. Please note each one you find in the `key_terms` column, with the article number.
+
+| Word | Arabic | Meaning |
+| --- | --- | --- |
+| hima | حمى | protected land or sea, closed to use |
+| mahmiyya | محمية | protected area (the usual modern word) |
+| amana | أمانة | trust; a duty of care over what is held for others |
+| maslaha | مصلحة (المصلحة العامة) | public interest, the common good |
+| khilafa / istikhlaf | خلافة / استخلاف | stewardship of the earth |
+| waqf | وقف | endowment held for a good purpose |
+| urf | عرف | custom |
+| ta'zir | تعزير | penalties set by the authorities |
+
+*Mahmiyya* comes from the same root as *hima*, but it is not the same word. Please record them separately. We do not yet know whether *hima* itself appears in any current law, so a `none` is just as useful as a find.
+
+Words in a law's preamble or explanatory note count too. Please write `preamble` or `explanatory note` instead of an article number.
 
 ## Points we already found
 
