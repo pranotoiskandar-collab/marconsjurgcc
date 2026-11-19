@@ -32,3 +32,7 @@ Collected on 18 November 2026. Most records were found through FAOLEX, UNEP LEAP
 - `data/arabic_sources.csv` lists 22 key instruments with Arabic titles, Hijri and Gregorian dates, gazette details and status. 11 of them have been checked against Arabic legal portals. The other 11 are left for the local colleague to check.
 - `data/arabic_books.csv` lists 19 Arabic books, theses and articles. They cover the region, single countries, international law written in Arabic, and Islamic law.
 - `ARABIC_CHECK_GUIDE.md` gives plain-English instructions for the colleague.
+
+## Secondary literature (added 2026-11-19)
+
+- `data/secondary_literature.csv` lists English commentary used as starting points, beginning with Stagstrup's 2025 EJIL:Talk! post on desalination discharges in the Gulf.
