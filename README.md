@@ -36,3 +36,22 @@ Collected on 18 November 2026. Most records were found through FAOLEX, UNEP LEAP
 ## Secondary literature (added 2026-11-19)
 
 - `data/secondary_literature.csv` lists English commentary used as starting points, beginning with Stagstrup's 2025 EJIL:Talk! post on desalination discharges in the Gulf.
+
+## Court cases (added 2026-11-19)
+
+`data/court_cases.csv` lists 21 judgments, awards and court records to use as sources: 9 international (ICJ, ITLOS, UN Compensation Commission, and the early oil arbitrations), 11 national (UAE, Bahrain, Qatar, Oman) and 1 historic customary court (Bahrain's pearling court).
+
+Columns: `id`, `scope`, `state`, `court`, `date`, `case`, `parties`, `citation`, `link`, `arabic_title`, `issue`, `outcome`, `verified` (yes, partly or no), `how_checked`, `why_it_matters`, `paper_section` (section of the working paper that could use it), `colleague_check` (what the Arabic-speaking colleague could check).
+
+What "verified" means:
+- **yes**: the judgment or official record was read.
+- **partly**: the case exists, but some details come from a news report, a catalogue entry or memory and still need checking against the full text.
+- **no**: only a hearing report was found; the outcome is unknown.
+
+Gaps still open:
+- **Saudi Arabia and Kuwait**: no national marine judgment was found online. Saudi courts are themselves Sharia courts, so any judgment there would also answer the Sharia question. The Saudi Ministry of Justice judgments portal (sjp.moj.gov.sa) and the Board of Grievances collections need searching in Arabic, ideally by the colleague.
+- **Sharia court rulings on the sea**: none found beyond the Saudi point above and the old pearling court records.
+- **Official portals**: the UAE Ministry of Justice portal blocked automated reading, and Qatar's Al Meezan search gave no marine judgments. A manual Arabic search may find more.
+- Most national rows rest on news reports. Case numbers and full texts should be found where possible.
+
+`COURT_SEARCH_GUIDE.md` (added 2026-11-19) gives the colleague a step-by-step Arabic search for more court cases, country by country, with portals, search words and what to record.
